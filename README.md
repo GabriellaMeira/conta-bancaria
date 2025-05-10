@@ -1,8 +1,9 @@
-Projeto utilizado no treinamento de orientação a objetos com PHP da DIO
-Configurando o autoload via Composer
-composer dump-autoload
+#### Projeto utilizado no treinamento de orientação a objetos com PHP da DIO
 
-Executando o projeto através do CLI do PHP
-php debug/operacoesContaCorrente.php
+##### Configurando o autoload via Composer
+`composer dump-autoload`
 
-php debug/operacoesContaPoupanca.php
+##### Executando o projeto através do CLI do PHP
+`php debug/operacoesContaCorrente.php`
+
+`php debug/operacoesContaPoupanca.php`
