@@ -1,0 +1,17 @@
+{
+    "name": "rasta/phppoo",
+    "description": "Estudando programa\u0000\u0000o orientada a objeto",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rasta\\Phppoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabriellaMeira",
+            "email": "gabimeira2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
